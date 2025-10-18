@@ -63,6 +63,7 @@
 	</dependencies>
 
 	<build>
+	 <finalName>spring-2396</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
